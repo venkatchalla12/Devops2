@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 same as devlop branch
+=======
+Featrure
+>>>>>>> 61e2732069fbaf73384fb00892edc20b6b2d3038
